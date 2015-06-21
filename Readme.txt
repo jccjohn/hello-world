@@ -1,0 +1,1 @@
+C:\Users\John\AppData\Local\GitHub\GitHub.appref-ms --open-shell
